@@ -1,4 +1,3 @@
-# onboarding_app
 
 # Merchant Onboarding Platform: Technical & Functional Documentation
 
