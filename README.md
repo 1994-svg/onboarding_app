@@ -22,7 +22,7 @@ To facilitate accurate data entry and reduce user friction, the platform integra
 
 | Data Source | Raw URL | Purpose |
 | :--- | :--- | :--- |
-| **Address Data** | `https://raw.githubusercontent.com/mmtool/address/main/mm_address.json` | Region, Township, District, City (EN/MM), Postal Code |
+| **Address Data** | `https://raw.githubusercontent.com/1994-svg/onboarding_app/refs/heads/main/mm_address.json` | Region, Township, District, City (EN/MM), Postal Code |
 | **MCC Data** | `https://raw.githubusercontent.com/mmtool/address/main/mm_mcc.json` | MCC Group, MCC Name, MCC Code |
 | **NRC Data** | `https://raw.githubusercontent.com/mmtool/address/main/nrc.json` | NRC Prefix, Tsp Code, Type |
 
